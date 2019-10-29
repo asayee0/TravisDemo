@@ -1,12 +1,12 @@
 
 def add(x, y):
-    return x + y + 1
+    return x + y
 
 def sub(x, y):
     return x - y 
 
 def mult(x, y):
-    return x + y 
+    return x * y 
 
 def div(x, y):
     return x / y
